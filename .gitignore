@@ -8,6 +8,9 @@ CSRF_PoC.html
 # C extensions
 *.so
 
+# pycharm
+.idea
+
 # Distribution / packaging
 .Python
 env/
